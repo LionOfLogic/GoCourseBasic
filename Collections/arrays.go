@@ -1,4 +1,4 @@
-package collectionm
+package Collections
 
 import "fmt"
 

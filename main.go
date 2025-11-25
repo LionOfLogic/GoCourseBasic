@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	col "gocoursebasic/collectionm"
+	col "gocoursebasic/Collections"
 )
 
 func main() {
