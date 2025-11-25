@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	col "gocoursebasic/Collections"
+
+	mics "gocoursebasic/mics"
 )
 
 func main() {
@@ -14,7 +15,11 @@ func main() {
 	//whileTest()
 	//col.ArrayTest()
 	//col.SlicesTest()
-	col.MapTest()
+	//mics.RangeTest()
+	mics.FunctionMain()
+	//col.MapTest()
+
+	mics.DeferTest()
 }
 
 func ifelseTest() {
