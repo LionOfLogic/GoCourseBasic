@@ -6,6 +6,11 @@ import (
 	mics "gocoursebasic/mics"
 )
 
+func init() {
+
+	fmt.Println("Its a default function it get call by default use for intialization it get call before main funtions")
+}
+
 func main() {
 
 	fmt.Println("Hello world!")
